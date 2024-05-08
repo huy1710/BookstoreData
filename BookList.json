@@ -1,0 +1,1318 @@
+[
+  {
+    "id": 1,
+    "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+    "price": "2,200円",
+    "author": "川野 ひろし (著)",
+    "rating": 3.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2017/4/22",
+    "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+    "price": "2,200円",
+    "author": "川野ひろし (著)",
+    "rating": 4.1,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2021/1/12",
+    "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "るるぶオーストラリア'24",
+    "price": "2,630円",
+    "author": "JTBパブリッシング(編集)",
+    "rating": 4.4,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/3/30",
+    "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "オーストラリア大全 とことん知ろう",
+    "price": "4,180円",
+    "author": "田中豊裕(編集)",
+    "rating": 4.2,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2022/11/03",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "イルカと話したい",
+    "price": "1,650円",
+    "author": "村山司(編集)",
+    "rating": 4.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2016/9/21",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "イスラムと仲よくなれる本",
+    "price": "1,650円",
+    "author": "森田ルクレール優子(著)",
+    "rating": 3.6,
+    "tag": [
+     {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/11/20",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "いのちを味わう これからの食をみすえて",
+    "price": "1,980円",
+    "author": "馬路泰藏(著)",
+    "rating": 4.4,
+    "tag": [
+     {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2020/7/26",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+    "price": "2,200円",
+    "author": "川野 ひろし (著)",
+    "rating": 3.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2017/4/22",
+    "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+    "price": "2,200円",
+    "author": "川野ひろし (著)",
+    "rating": 4.1,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2021/1/12",
+    "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "るるぶオーストラリア'24",
+    "price": "2,630円",
+    "author": "JTBパブリッシング(編集)",
+    "rating": 4.4,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/3/30",
+    "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "オーストラリア大全 とことん知ろう",
+    "price": "4,180円",
+    "author": "田中豊裕(編集)",
+    "rating": 4.2,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2022/11/03",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "イルカと話したい",
+    "price": "1,650円",
+    "author": "村山司(編集)",
+    "rating": 4.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2016/9/21",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "イスラムと仲よくなれる本",
+    "price": "1,650円",
+    "author": "森田ルクレール優子(著)",
+    "rating": 3.6,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/11/20",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "いのちを味わう これからの食をみすえて",
+    "price": "1,980円",
+    "author": "馬路泰藏(著)",
+    "rating": 4.4,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2020/7/26",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+    "price": "2,200円",
+    "author": "川野 ひろし (著)",
+    "rating": 3.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2017/4/22",
+    "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+    "price": "2,200円",
+    "author": "川野ひろし (著)",
+    "rating": 4.1,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2021/1/12",
+    "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "るるぶオーストラリア'24",
+    "price": "2,630円",
+    "author": "JTBパブリッシング(編集)",
+    "rating": 4.4,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/3/30",
+    "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "オーストラリア大全 とことん知ろう",
+    "price": "4,180円",
+    "author": "田中豊裕(編集)",
+    "rating": 4.2,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2022/11/03",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "イルカと話したい",
+    "price": "1,650円",
+    "author": "村山司(編集)",
+    "rating": 4.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2016/9/21",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "イスラムと仲よくなれる本",
+    "price": "1,650円",
+    "author": "森田ルクレール優子(著)",
+    "rating": 3.6,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/11/20",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "いのちを味わう これからの食をみすえて",
+    "price": "1,980円",
+    "author": "馬路泰藏(著)",
+    "rating": 4.4,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2020/7/26",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+    "price": "2,200円",
+    "author": "川野 ひろし (著)",
+    "rating": 3.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2017/4/22",
+    "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+    "price": "2,200円",
+    "author": "川野ひろし (著)",
+    "rating": 4.1,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2021/1/12",
+    "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "るるぶオーストラリア'24",
+    "price": "2,630円",
+    "author": "JTBパブリッシング(編集)",
+    "rating": 4.4,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/3/30",
+    "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "オーストラリア大全 とことん知ろう",
+    "price": "4,180円",
+    "author": "田中豊裕(編集)",
+    "rating": 4.2,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2022/11/03",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "イルカと話したい",
+    "price": "1,650円",
+    "author": "村山司(編集)",
+    "rating": 4.7,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2016/9/21",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "イスラムと仲よくなれる本",
+    "price": "1,650円",
+    "author": "森田ルクレール優子(著)",
+    "rating": 3.6,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2023/11/20",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "いのちを味わう これからの食をみすえて",
+    "price": "1,980円",
+    "author": "馬路泰藏(著)",
+    "rating": 4.4,
+    "tag": [
+      {
+        "id": 1,
+        "name": "#英会話(15)"
+      },
+      {
+        "id": 2,
+        "name": "#実用的(4)"
+      },
+      {
+        "id": 3,
+        "name": "#わかりにくい(2)"
+      }
+    ],
+    "release_date": "2020/7/26",
+    "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+    "is_marked": false,
+    "store": [
+      {
+        "id": 1,
+        "name": "代官山 蔦屋書店",
+        "zip_code": "T150-0033",
+        "address": "東京都渋谷区猿楽町16-15",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+      },
+      {
+        "id": 2,
+        "name": "銀座 蔦屋書店",
+        "zip_code": "T104-0061",
+        "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+      },
+      {
+        "id": 3,
+        "name": "#英会話",
+        "zip_code": "T150-0033",
+        "address": "羽田空港",
+        "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+      }
+    ]
+  }
+]
