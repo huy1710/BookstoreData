@@ -22,6 +22,7 @@
     "release_date": "2017/4/22",
     "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -69,6 +70,7 @@
     "release_date": "2021/1/12",
     "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
     "is_marked": false,
+    "stock_status": "Out of stock",
     "store": [
       {
         "id": 1,
@@ -116,6 +118,7 @@
     "release_date": "2023/3/30",
     "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
     "is_marked": false,
+    "stock_status": "No information",
     "store": [
       {
         "id": 1,
@@ -163,6 +166,7 @@
     "release_date": "2022/11/03",
     "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -210,6 +214,7 @@
     "release_date": "2016/9/21",
     "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -257,6 +262,7 @@
     "release_date": "2023/11/20",
     "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -304,6 +310,7 @@
     "release_date": "2020/7/26",
     "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -351,6 +358,7 @@
     "release_date": "2017/4/22",
     "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -398,6 +406,7 @@
     "release_date": "2021/1/12",
     "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
     "is_marked": false,
+    "stock_status": "Out of stock",
     "store": [
       {
         "id": 1,
@@ -445,6 +454,7 @@
     "release_date": "2023/3/30",
     "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -492,6 +502,7 @@
     "release_date": "2022/11/03",
     "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -539,6 +550,7 @@
     "release_date": "2016/9/21",
     "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -586,6 +598,7 @@
     "release_date": "2023/11/20",
     "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -633,6 +646,7 @@
     "release_date": "2020/7/26",
     "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -680,6 +694,7 @@
     "release_date": "2017/4/22",
     "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -727,6 +742,7 @@
     "release_date": "2021/1/12",
     "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -774,6 +790,7 @@
     "release_date": "2023/3/30",
     "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -821,6 +838,7 @@
     "release_date": "2022/11/03",
     "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -868,6 +886,7 @@
     "release_date": "2016/9/21",
     "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -915,6 +934,7 @@
     "release_date": "2023/11/20",
     "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -962,6 +982,7 @@
     "release_date": "2020/7/26",
     "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -1009,6 +1030,7 @@
     "release_date": "2017/4/22",
     "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -1056,6 +1078,7 @@
     "release_date": "2021/1/12",
     "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -1103,6 +1126,7 @@
     "release_date": "2023/3/30",
     "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -1150,6 +1174,7 @@
     "release_date": "2022/11/03",
     "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -1197,6 +1222,7 @@
     "release_date": "2016/9/21",
     "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -1244,6 +1270,7 @@
     "release_date": "2023/11/20",
     "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
     "is_marked": false,
+    "stock_status": "In stock",
     "store": [
       {
         "id": 1,
@@ -1291,6 +1318,7 @@
     "release_date": "2020/7/26",
     "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
     "is_marked": false,
+    "stock_status": "Out of stock",
     "store": [
       {
         "id": 1,
