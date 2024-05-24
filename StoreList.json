@@ -793,8 +793,8 @@
     },
     {
       "id": 8,
-      "name": "Da Nang Hospital C",
-      "address": "Da Nang Hospital C",
+      "name": "University of Technology and Education",
+      "address": "University of Technology and Education",
       "zipcode": "〒150-0033",
       "distance": 0.5,
       "poster": "https://media.timeout.com/images/105772322/750/422/image.webp",
@@ -805,8 +805,8 @@
         "dating",
         "cut"
       ],
-      "latitude": 16.0729913,
-      "longitude": 108.2155498,
+      "latitude": 16.0773428,
+      "longitude": 108.2134243,
       "books": [
         {
           "id": 1,
