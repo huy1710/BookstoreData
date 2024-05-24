@@ -115,8 +115,8 @@
     },
     {
       "id": 2,
-      "name": "Danang Meseum",
-      "address": "Danang Meseum",
+      "name": "Danang Fine Arts Museum",
+      "address": "Danang Fine Arts Museum",
       "zipcode": "〒150-0033",
       "distance": 0.5,
       "poster": "https://media.timeout.com/images/105772322/750/422/image.webp",
@@ -127,8 +127,8 @@
         "dating",
         "cut"
       ],
-      "latitude": 16.074146,
-      "longitude": 108.2170191,
+      "latitude": 16.0732237,
+      "longitude": 108.2168733,
       "books": [
         {
           "id": 1,
