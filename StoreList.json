@@ -43,6 +43,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -68,6 +91,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "Out of stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -111,6 +157,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "No information",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -136,6 +205,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -182,6 +274,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -207,6 +322,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -253,6 +391,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "Out of stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -278,6 +439,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -324,6 +508,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "No information",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -349,6 +556,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -395,6 +625,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -420,6 +673,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "Out of stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -466,6 +742,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -491,6 +790,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -537,6 +859,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "No information",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -562,6 +907,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         }
       ]
     },
@@ -608,6 +976,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 2,
@@ -633,6 +1024,29 @@
           "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
           "is_marked": false,
           "stock_status": "In stock",
+          "store": [
+            {
+              "id": 1,
+              "name": "代官山 蔦屋書店",
+              "zip_code": "T150-0033",
+              "address": "東京都渋谷区猿楽町16-15",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+            },
+            {
+              "id": 2,
+              "name": "銀座 蔦屋書店",
+              "zip_code": "T104-0061",
+              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+            },
+            {
+              "id": 3,
+              "name": "#英会話",
+              "zip_code": "T150-0033",
+              "address": "羽田空港",
+              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+            }
+          ]
         },
         {
           "id": 10,
@@ -669,6 +1083,29 @@
               "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
               "is_marked": false,
               "stock_status": "In stock",
+              "store": [
+                {
+                  "id": 1,
+                  "name": "代官山 蔦屋書店",
+                  "zip_code": "T150-0033",
+                  "address": "東京都渋谷区猿楽町16-15",
+                  "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+                },
+                {
+                  "id": 2,
+                  "name": "銀座 蔦屋書店",
+                  "zip_code": "T104-0061",
+                  "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+                  "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+                },
+                {
+                  "id": 3,
+                  "name": "#英会話",
+                  "zip_code": "T150-0033",
+                  "address": "羽田空港",
+                  "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+                }
+              ]
             },
             {
               "id": 2,
@@ -694,6 +1131,29 @@
               "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
               "is_marked": false,
               "stock_status": "Out of stock",
+              "store": [
+                {
+                  "id": 1,
+                  "name": "代官山 蔦屋書店",
+                  "zip_code": "T150-0033",
+                  "address": "東京都渋谷区猿楽町16-15",
+                  "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
+                },
+                {
+                  "id": 2,
+                  "name": "銀座 蔦屋書店",
+                  "zip_code": "T104-0061",
+                  "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
+                  "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
+                },
+                {
+                  "id": 3,
+                  "name": "#英会話",
+                  "zip_code": "T150-0033",
+                  "address": "羽田空港",
+                  "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
+                }
+              ]
             }
           ]
         }
