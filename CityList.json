@@ -3,32 +3,19 @@
     "id": 1,
     "name": "北海道・東北(5)",
     "isSelected": false,
-    "districts": [
-      { "id": 1, "name": "港区(34)", "isSelected": false },
-      { "id": 2, "name": "新宿区(30)", "isSelected": false },
-      { "id": 3, "name": "渋谷区(25)", "isSelected": false },
-      { "id": 4, "name": "新宿区(30)", "isSelected": false },
-      { "id": 5, "name": "板橋区(20)", "isSelected": false },
-      { "id": 6, "name": "千代田区(18)", "isSelected": false }
-    ]
+    "districts": []
   },
   {
     "id": 2,
     "name": "関東",
     "isSelected": false,
-    "districts": [
-      { "id": 7, "name": "港区(34)", "isSelected": false },
-      { "id": 8, "name": "港区(34)", "isSelected": false }
-    ]
+    "districts": []
   },
   {
     "id": 3,
     "name": "東京",
     "isSelected": false,
-    "districts": [
-      { "id": 9, "name": "港区(34)", "isSelected": false },
-      { "id": 10, "name": "港区(34)", "isSelected": false }
-    ]
+    "districts": []
   },
   {
     "id": 4,
@@ -44,9 +31,6 @@
     "id": 5,
     "name": "中部・北陸",
     "isSelected": false,
-    "districts": [
-      { "id": 14, "name": "港区(34)", "isSelected": false },
-      { "id": 15, "name": "港区(34)", "isSelected": false }
-    ]
+    "districts": []
   }
 ]
