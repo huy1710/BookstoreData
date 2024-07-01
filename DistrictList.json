@@ -1,4 +1,6 @@
-[
+{
+  "district":
+  [
   { "id": 1, "name": "港区(34)", "isSelected": false },
   { "id": 2, "name": "新宿区(30)", "isSelected": false },
   { "id": 3, "name": "渋谷区(25)", "isSelected": false },
@@ -15,3 +17,4 @@
   { "id": 14, "name": "港区(34)", "isSelected": false },
   { "id": 15, "name": "港区(34)", "isSelected": false }
 ]
+}
