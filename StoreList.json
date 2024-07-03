@@ -21,14 +21,14 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
-     "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
-      "stock_status": "In stock",
+      "stock_status": "Limited stock",
       "memo": true,
       "barcode": "9784758024001"
     },
@@ -388,14 +388,14 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
-      "stock_status": "In stock",
+      "stock_status": "No information",
       "memo": true,
       "barcode": "9784758024001"
     },
@@ -758,10 +758,10 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
@@ -1128,10 +1128,10 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
@@ -1498,10 +1498,10 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
@@ -1868,10 +1868,10 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
@@ -2238,10 +2238,10 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
@@ -2608,10 +2608,10 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
@@ -2978,10 +2978,10 @@
       "books": [
   {
       "id": 1,
-    "title": "イムリ",
-    "price": "2,200",
-    "author": "馬路泰藏(著)",
-    "rating": 4.4,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
       "release_date": "2017/4/22",
      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
