@@ -19,103 +19,356 @@
       "latitude": 16.0740691,
       "longitude": 108.2187079,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "Limited stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "Limited stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 2,
@@ -133,103 +386,356 @@
       "latitude": 16.0732237,
       "longitude": 108.2168733,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "No information",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 3,
@@ -250,103 +756,356 @@
       "latitude": 16.074146,
       "longitude": 108.2170191,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 4,
@@ -367,103 +1126,356 @@
       "latitude": 16.0732061,
       "longitude": 108.2169689,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "Limited stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 5,
@@ -484,103 +1496,356 @@
       "latitude": 16.0751345,
       "longitude": 108.217229,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "No information",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 6,
@@ -601,103 +1866,356 @@
       "latitude": 16.0766675,
       "longitude": 108.218407,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "Limited stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 7,
@@ -718,103 +2236,356 @@
       "latitude": 16.0745505,
       "longitude": 108.2163657,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 8,
@@ -835,103 +2606,356 @@
       "latitude": 16.0773428,
       "longitude": 108.2134243,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "No information",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     },
     {
       "id": 9,
@@ -952,212 +2976,356 @@
       "latitude": 16.0729913,
       "longitude": 108.2155498,
       "books": [
-        {
-          "id": 1,
-          "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-          "price": "2,200円",
-          "author": "川野 ひろし (著)",
-          "rating": 3.7,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2017/4/22",
-          "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-          "price": "2,200円",
-          "author": "川野ひろし (著)",
-          "rating": 4.1,
-          "tag": [
-            {
-              "id": 1,
-              "name": "#英会話"
-            },
-            {
-              "id": 2,
-              "name": "#実用的"
-            },
-            {
-              "id": 3,
-              "name": "#わかりにくい"
-            }
-          ],
-          "release_date": "2021/1/12",
-          "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-          "is_marked": false,
-          "stock_status": "In stock",
-          "store": [
-            {
-              "id": 1,
-              "name": "代官山 蔦屋書店",
-              "zip_code": "T150-0033",
-              "address": "東京都渋谷区猿楽町16-15",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-            },
-            {
-              "id": 2,
-              "name": "銀座 蔦屋書店",
-              "zip_code": "T104-0061",
-              "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-            },
-            {
-              "id": 3,
-              "name": "#英会話",
-              "zip_code": "T150-0033",
-              "address": "羽田空港",
-              "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-            }
-          ]
-        },
-        {
-          "id": 10,
-          "name": "Bay Capital Da Nang Hotel",
-          "address": "Bay Capital Da Nang Hotel",
-          "zipcode": "〒150-0033",
-          "distance": 0.5,
-          "brand": "brand_tsutaya",
-          "poster": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480127905.jpg?k=5af7af67d5379f71f07e24298b104fca25c3d1966c50a50e94a600d14f0b7dff&o=&hp=1",
-          "latitude": 16.0750655,
-          "longitude": 108.2171207,
-          "books": [
-            {
-              "id": 1,
-              "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
-              "price": "2,200円",
-              "author": "川野 ひろし (著)",
-              "rating": 3.7,
-              "tag": [
-                {
-                  "id": 1,
-                  "name": "#英会話"
-                },
-                {
-                  "id": 2,
-                  "name": "#実用的"
-                },
-                {
-                  "id": 3,
-                  "name": "#わかりにくい"
-                }
-              ],
-              "release_date": "2017/4/22",
-              "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
-              "is_marked": false,
-              "stock_status": "In stock",
-              "store": [
-                {
-                  "id": 1,
-                  "name": "代官山 蔦屋書店",
-                  "zip_code": "T150-0033",
-                  "address": "東京都渋谷区猿楽町16-15",
-                  "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-                },
-                {
-                  "id": 2,
-                  "name": "銀座 蔦屋書店",
-                  "zip_code": "T104-0061",
-                  "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-                  "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-                },
-                {
-                  "id": 3,
-                  "name": "#英会話",
-                  "zip_code": "T150-0033",
-                  "address": "羽田空港",
-                  "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "title": "G'day Mate! 旅で役立つオーストラリア英会話",
-              "price": "2,200円",
-              "author": "川野ひろし (著)",
-              "rating": 4.1,
-              "tag": [
-                {
-                  "id": 1,
-                  "name": "#英会話"
-                },
-                {
-                  "id": 2,
-                  "name": "#実用的"
-                },
-                {
-                  "id": 3,
-                  "name": "#わかりにくい"
-                }
-              ],
-              "release_date": "2021/1/12",
-              "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
-              "is_marked": false,
-              "stock_status": "Limited stock",
-              "store": [
-                {
-                  "id": 1,
-                  "name": "代官山 蔦屋書店",
-                  "zip_code": "T150-0033",
-                  "address": "東京都渋谷区猿楽町16-15",
-                  "picture": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/og.jpg"
-                },
-                {
-                  "id": 2,
-                  "name": "銀座 蔦屋書店",
-                  "zip_code": "T104-0061",
-                  "address": "東京都 中央区 銀座トウキョウト チュウオウク ギンザ",
-                  "picture": "https://store.tsite.jp/static_contents/site/tsite/ginza/img/about/key.jpg"
-                },
-                {
-                  "id": 3,
-                  "name": "#英会話",
-                  "zip_code": "T150-0033",
-                  "address": "羽田空港",
-                  "picture": "https://store.tsite.jp/static_contents/site/tsite/haneda-airport/img/about/key.jpg?time=200324"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+  {
+      "id": 1,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "memo": true,
+      "barcode": "9784758024001"
+    },
+    {
+      "id": 2,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Limited stock",
+      "barcode": "9784758024002"
+    },
+    {
+      "id": 3,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "No information",
+      "barcode": "9784758024003"
+    },
+    {
+      "id": 4,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024004"
+    },
+    {
+      "id": 5,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024005"
+    },
+    {
+      "id": 6,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024006"
+    },
+    {
+      "id": 7,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024007"
+    },
+    {
+      "id": 8,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024008"
+    },
+    {
+      "id": 9,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024009"
+    },
+    {
+      "id": 10,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024010"
+    },
+    {
+      "id": 11,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024011"
+    },
+    {
+      "id": 12,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024012"
+    },
+    {
+      "id": 13,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024013"
+    },
+    {
+      "id": 14,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024014"
+    },
+    {
+      "id": 15,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024015"
+    },
+    {
+      "id": 16,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024016"
+    },
+    {
+      "id": 17,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024017"
+    },
+    {
+      "id": 18,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024018"
+    },
+    {
+      "id": 19,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024019"
+    },
+    {
+      "id": 20,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "森田ルクレール優子(著)",
+      "rating": 3.6,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024020"
+    },
+    {
+      "id": 21,
+      "title": "いのちを味わう これからの食をみすえて",
+      "price": "1,980",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/15/15/NEOBK-2512179.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024021"
+    },
+    {
+      "id": 22,
+      "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+      "price": "2,200",
+      "author": "川野 ひろし (著)",
+      "rating": 3.7,
+      "release_date": "2017/4/22",
+      "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024022"
+    },
+    {
+      "id": 23,
+      "title": "G'day Mate! 旅で役立つオーストラリア英会話",
+      "price": "2,200",
+      "author": "川野ひろし (著)",
+      "rating": 4.1,
+      "release_date": "2021/1/12",
+      "poster_url": "https://m.media-amazon.com/images/I/51M-mYD6kYL._SY445_SX342_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024023"
+    },
+    {
+      "id": 24,
+      "title": "るるぶオーストラリア'24",
+      "price": "2,630",
+      "author": "JTBパブリッシング(編集)",
+      "rating": 4.4,
+      "release_date": "2023/3/30",
+      "poster_url": "https://m.media-amazon.com/images/I/91CIEpBROIL._SL1500_.jpg",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024024"
+    },
+    {
+      "id": 25,
+      "title": "オーストラリア大全 とことん知ろう",
+      "price": "4,180",
+      "author": "田中豊裕(編集)",
+      "rating": 4.2,
+      "release_date": "2022/11/03",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/00/00/NEOBK-2803430.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024025"
+    },
+    {
+      "id": 26,
+      "title": "イルカと話したい",
+      "price": "1,650",
+      "author": "村山司(編集)",
+      "rating": 4.7,
+      "release_date": "2016/9/21",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/11/46/NEOBK-2002654.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024026"
+    },
+    {
+      "id": 27,
+      "title": "イスラムと仲よくなれる本",
+      "price": "1,650",
+      "author": "三宅 乱丈 (著)",
+      "rating": 3.7,
+      "release_date": "2023/11/20",
+      "poster_url": "https://www.neowing.co.jp/pictures/l/01/37/NEOBK-2918404.jpg?v=1",
+      "is_marked": false,
+      "stock_status": "In stock",
+      "barcode": "9784758024027"
+    },
+    {
+      "id": 28,
+      "title": "イムリ",
+      "price": "2,200",
+      "author": "馬路泰藏(著)",
+      "rating": 4.4,
+      "release_date": "2020/7/26",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    },
+    {
+      "id": 29,
+      "title": "ブルーアーカイブ　オフィシャルアートワークス",
+      "price": "3,905",
+      "author": "Ｙｏｓｔａｒ",
+      "rating": 3.7,
+      "release_date": "2022/10/10",
+      "poster_url": "https://shop.r10s.jp/book/cabinet/4068/9784758024068_1_3.jpg",
+      "is_marked": false,
+      "stock_status": "Out of stock",
+      "barcode": "9784758024028"
+    }
+  ]
     }
   ]
 }
