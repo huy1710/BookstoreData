@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "地球の歩き方ゴールドコースト&ケアンズ 2020 2021",
+    "title": "イムリ",
     "price": "2,200",
-    "author": "川野 ひろし (著)",
-    "rating": 3.7,
+    "author": "馬路泰藏(著)",
+    "rating": 4.4,
     "tag": [
       {
         "id": 1,
@@ -20,7 +20,7 @@
       }
     ],
     "release_date": "2017/4/22",
-    "poster_url": "https://m.media-amazon.com/images/I/61yUbi86seL._SY466_.jpg",
+    "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
     "is_marked": false,
     "stock_status": "In stock",
     "memo": true,
