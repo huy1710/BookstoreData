@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "北海道・東北(5)",
+    "isSelected": false,
+    "districts": []
+  },
+  {
+    "id": 2,
+    "name": "関東",
+    "isSelected": false,
+    "districts": []
+  },
+  {
+    "id": 3,
+    "name": "東京",
+    "isSelected": false,
+    "districts": []
+  },
+  {
+    "id": 4,
+    "name": "神奈川",
+    "isSelected": false,
+    "districts": [
+      {
+        "id": 41,
+        "name": "横浜",
+        "isSelected": false
+      },
+      {
+        "id": 42,
+        "name": "川崎",
+        "isSelected": false
+      },
+      {
+        "id": 43,
+        "name": "横須賀",
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "中部・北陸",
+    "isSelected": false,
+    "districts": []
+  }
+]
