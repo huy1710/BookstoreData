@@ -8,6 +8,7 @@
       "distance": 0.5,
       "brand" : "brand_kinokuniya",
       "poster": "https://poipic5.coccoc.com/450x230/poi/previews/20180712/24771-87f579ffa8df83c3ea44f59344328488.jpg",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -378,6 +379,7 @@
       "distance": 0.5,
       "brand": "brand_junkudo",
       "poster": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/86/2019/09/17094422/DANANG-MUSEUM-OF-FINE-ARTS.jpg",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -745,6 +747,7 @@
       "distance": 0.5,
       "brand": "brand_bunkyodo",
       "poster": "https://r73troypb4obj.vcdn.cloud/website02/uploads/pictures/6265986c1a1b852f357a3d56/content_danh-gia-truong-thpt-tran-phu-tinh-da-nang-co-tot-khong3.jpg",
+      "has_book": true,
       "convenient": [
         "drink",
         "seat",
@@ -1115,6 +1118,7 @@
       "distance": 0.5,
       "brand": "brand_tsutaya",
       "poster": "https://r73troypb4obj.vcdn.cloud/website02/uploads/pictures/626596c51a1b852f357a3d4b/content_danh-gia-truong-thpt-phan-chau-trinh-tinh-da-nang-co-tot-khong.jpg",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -1485,6 +1489,7 @@
       "distance": 0.5,
       "brand": "brand_mazawa",
       "poster": "https://baodanang.vn/dataimages/202312/original/images1721713_images1721664_DT5.jpg",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -1855,6 +1860,7 @@
       "distance": 0.5,
       "brand": "brand_maruzen",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuo5cGAZaBnB2bMICBlrSmxHz6sLC3LbTAQK4M6jO0TQ&s",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -2225,6 +2231,7 @@
       "distance": 0.5,
       "brand": "brand_sanseido",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2f8-QFJBrI02MsG8enPll9Xf59ExWoDBkOeQ30Zang&s",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -2595,6 +2602,7 @@
       "distance": 0.5,
       "brand": "brand_yurindo",
       "poster": "https://lh3.googleusercontent.com/proxy/cFSFQlk5gzSehuQM7FxSf_KO_oABFlYTSaTfhsVZi3yXu63O11c46qc-GRk_v7G2c6twVSapq6BxY90K1aCT",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -2965,6 +2973,7 @@
       "distance": 0.5,
       "brand": "brand_tsutaya",
       "poster": "https://cms.haivan.com/photos/b%E1%BB%87nh%20vi%E1%BB%87n%20%C4%91%C3%A0%20n%E1%BA%B5ng/top-5-benh-vien-da-nang-uy-tin-chat-luong-1.png",
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
@@ -2983,7 +2992,7 @@
       "author": "馬路泰藏(著)",
       "rating": 4.4,
       "release_date": "2017/4/22",
-     "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
+      "poster_url": "https://m.media-amazon.com/images/I/91nucG00wgL._SY425_.jpg",
       "is_marked": false,
       "stock_status": "In stock",
       "memo": true,
