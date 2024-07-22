@@ -8,7 +8,7 @@
       "distance": 0.5,
       "brand" : "brand_kinokuniya",
       "poster": "https://poipic5.coccoc.com/450x230/poi/previews/20180712/24771-87f579ffa8df83c3ea44f59344328488.jpg",
-      "has_book": false,
+      "has_book": true,
       "convenient": [
         "drink",
         "seat",
@@ -747,7 +747,7 @@
       "distance": 0.5,
       "brand": "brand_bunkyodo",
       "poster": "https://r73troypb4obj.vcdn.cloud/website02/uploads/pictures/6265986c1a1b852f357a3d56/content_danh-gia-truong-thpt-tran-phu-tinh-da-nang-co-tot-khong3.jpg",
-      "has_book": true,
+      "has_book": false,
       "convenient": [
         "drink",
         "seat",
