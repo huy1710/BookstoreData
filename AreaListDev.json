@@ -5,7 +5,7 @@
     "isSelected": false,
     "districts": [],
     "latitude": 43.4126925,
-    "longitude": 142.8035773,
+    "longitude": 142.8035773
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "isSelected": false,
     "districts": [],
      "latitude": 36.0215163,
-    "longitude": 138.3188147,
+    "longitude": 138.3188147
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "isSelected": false,
     "districts": [],
     "latitude": 35.5085647,
-    "longitude": 139.1104205,
+    "longitude": 139.1104205
   },
   {
     "id": 4,
@@ -33,25 +33,25 @@
         "name": "横浜",
         "isSelected": false,
         "latitude": 35.4411141,
-        "longitude": 139.5617854,
+        "longitude": 139.5617854
       },
       {
         "id": 42,
         "name": "川崎",
         "isSelected": false,
         "latitude": 35.5500898,
-        "longitude": 139.6236975,
+        "longitude": 139.6236975
       },
       {
         "id": 43,
         "name": "横須賀",
         "isSelected": false,
         "latitude": 35.2479864,
-        "longitude": 139.6566303,
+        "longitude": 139.6566303
       }
     ],
     "latitude": 35.4008587,
-    "longitude": 139.0461317,
+    "longitude": 139.0461317
   },
   {
     "id": 5,
@@ -59,6 +59,6 @@
     "isSelected": false,
     "districts": [],
     "latitude": 35.4226008,
-    "longitude": 140.2722192,
+    "longitude": 140.2722192
   }
 ]
